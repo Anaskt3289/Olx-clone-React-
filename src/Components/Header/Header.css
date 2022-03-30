@@ -94,8 +94,6 @@
   margin-right: 5px;
 }
 
-.language svg {
-}
 
 .span {
   text-decoration: none;
@@ -161,4 +159,10 @@
   .sellMenu {
     display: none;
   }
+}
+.logout{
+  cursor: pointer;
+}
+.brandName{
+  cursor: pointer;
 }
